@@ -1,4 +1,4 @@
-# Farid Karimli 000018176 CRN:20420
+# Farid Karimli
 
 # Week05
 ## Task 1
